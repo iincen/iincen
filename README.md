@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="PC GIF" src="https://1.bp.blogspot.com/-GW5Wm4OnvqU/XlzVbMuEkZI/AAAAAAAADgU/U5GlzmVLZUctV7phDci8NIh7CQX8YepQgCLcBGAsYHQ/s1600/MyIcon2.png" width="190" />
+<img align="right" alt="PC GIF" src="https://i.pinimg.com/originals/48/65/cc/4865cc307e42e20688b7a0916e4e2051.gif" width="190" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello Everyone😊** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -16,15 +16,6 @@
 
 - <img alt="GIF" src="https://media3.giphy.com/media/QAgTKSP2NJV4oYmSVB/giphy.gif" width="35vw" /> KUY MABAR :v<img src="https://media1.giphy.com/media/TJP4CAMLj6xh8DR8mh/giphy.gif?cid=ecf05e47a8ipl78pbnzq4qbkgcz53fmyv2w1ih7imaox14y5&rid=giphy.gif" width="35px">
  **Let's be friends**:)
-
-<br>
-
-
-![iincen github stats](https://github-readme-stats.vercel.app/api?username=iincen_icons=true&hide_border=true)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?iincen=TheSploit&theme=light&hide=css,html))
 
 <br>
 
