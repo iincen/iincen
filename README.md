@@ -8,19 +8,19 @@
 
 <p>
   <em>
-    hello, i am cen, welcome to my github hope you enjoy it, i am an ordinary student in my school, maybe that's all, and hope you like it :), for more questions about myself etc. contact my email: <b>iincen403@gmail.com</b> and this is my first web :) <a href="https://www.stkfamily.my.id/"> <b>stk family</b></a> don't forget to come brouh, <b>ILY<b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20px">
+    hello, i am cen, welcome to my github hope you enjoy it, i am an ordinary student in my school, maybe that's all, and hope you like it :), for more questions about myself etc. contact my email: <b>iincen403@gmail.com</b> and this is my first web :) <a href="https://www.stkfamily.my.id/"> <b>stk family</b></a> don't forget to come brouh, <b>ILY<b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="15px">
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://media3.giphy.com/media/QAgTKSP2NJV4oYmSVB/giphy.gif" width="40vw" /> KUY MABAR :v<img src="https://media1.giphy.com/media/TJP4CAMLj6xh8DR8mh/giphy.gif?cid=ecf05e47a8ipl78pbnzq4qbkgcz53fmyv2w1ih7imaox14y5&rid=giphy.gif" width="40px">
+- <img alt="GIF" src="https://media3.giphy.com/media/QAgTKSP2NJV4oYmSVB/giphy.gif" width="35vw" /> KUY MABAR :v<img src="https://media1.giphy.com/media/TJP4CAMLj6xh8DR8mh/giphy.gif?cid=ecf05e47a8ipl78pbnzq4qbkgcz53fmyv2w1ih7imaox14y5&rid=giphy.gif" width="35px">
  **Let's be friends**:)
 
 <br>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=iincen_icons=true&hide_border=true)
+![iincen github stats](https://github-readme-stats.vercel.app/api?username=iincen_icons=true&hide_border=true)
 
 <br>
 
