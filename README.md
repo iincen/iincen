@@ -19,7 +19,8 @@
 
 <br>
 
-![gif from me](https://github.com/iincen/iincen/blob/main/kucingmumbol.gif?raw=true) 
+<img src="https://github.com/iincen/iincen/blob/main/bintang.gif" width="980">
+
 
 <br>
 
