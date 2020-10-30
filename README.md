@@ -14,7 +14,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://media3.giphy.com/media/QAgTKSP2NJV4oYmSVB/giphy.gif" width="30vw" /> yang mau mabar game kontak email ae :v<img src="https://media1.giphy.com/media/TJP4CAMLj6xh8DR8mh/giphy.gif?cid=ecf05e47a8ipl78pbnzq4qbkgcz53fmyv2w1ih7imaox14y5&rid=giphy.gif" width="30px">
+- <img alt="GIF" src="https://media3.giphy.com/media/QAgTKSP2NJV4oYmSVB/giphy.gif" width="40vw" /> KUY MABAR :v<img src="https://media1.giphy.com/media/TJP4CAMLj6xh8DR8mh/giphy.gif?cid=ecf05e47a8ipl78pbnzq4qbkgcz53fmyv2w1ih7imaox14y5&rid=giphy.gif" width="40px">
  **Let's be friends**:)
 
 <br>
