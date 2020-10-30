@@ -8,7 +8,7 @@
 
 <p>
   <em>
-    hello, i am cen, welcome to my github hope you enjoy it, i am an ordinary student in my school, maybe that's all, and hope you like it :), for more questions about myself etc. contact my email: <b>iincen403@gmail.com<b> or follow my <b>ig<b> and this is my first web :)<a href="https://www.stkfamily.my.id/"> <b>stk family </b> don't forget to come brouh ,<b>ILY<b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="32px">
+    hello, i am cen, welcome to my github hope you enjoy it, i am an ordinary student in my school, maybe that's all, and hope you like it :), for more questions about myself etc. contact my email: <b>iincen403@gmail.com<b> or follow my <b>ig<b> and this is my first web :)<a href="https://www.stkfamily.my.id/"> <b>stk family</b> don't forget to come brouh, <b>ILY<b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="32px">
   </em>  
 </p>
 
