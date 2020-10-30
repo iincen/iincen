@@ -27,6 +27,11 @@
 
 <br>
 
+## I ❤️ Memes
+
+<img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
+
+
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
