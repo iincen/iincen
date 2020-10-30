@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="PC GIF" src="https://i.pinimg.com/originals/48/65/cc/4865cc307e42e20688b7a0916e4e2051.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://3.bp.blogspot.com/-p-_NA8DHZGU/V0fhYv4KhJI/AAAAAAAAU5U/p9TA69gXqkw1R8suQk84HPWKYFedSh8-ACLcB/s640/ed17bcccad413332918a5c7801f4238d.gif" width="190" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello Everyone😊** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="http://img0.joyreactor.com/pics/post/gif-pixel-art-Sci-Fi-rolly-rocket-3007454.gif" width="980">
+<img src="http://img0.joyreactor.com/pics/post/gif-pixel-art-Sci-Fi-rolly-rocket-3007454.gif" alt="GIF" width="980">
 
 <br>
 
