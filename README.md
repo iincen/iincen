@@ -19,7 +19,7 @@
 
 <br>
 
-!(http://img0.joyreactor.com/pics/post/gif-pixel-art-Sci-Fi-rolly-rocket-3007454.gif) width="980">
+![GIF](http://img0.joyreactor.com/pics/post/gif-pixel-art-Sci-Fi-rolly-rocket-3007454.gif) 
 
 <br>
 
