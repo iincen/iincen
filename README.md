@@ -4,11 +4,11 @@
 
 <img align="right" alt="PC GIF" src="https://3.bp.blogspot.com/-p-_NA8DHZGU/V0fhYv4KhJI/AAAAAAAAU5U/p9TA69gXqkw1R8suQk84HPWKYFedSh8-ACLcB/s640/ed17bcccad413332918a5c7801f4238d.gif" width="190" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello Everyone😊** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello Everyone** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
-    hello, i am cen, welcome to my github hope you enjoy it, i am an ordinary student in my school, maybe that's all, and hope you like it :), for more questions about myself etc. contact my email: <b>iincen403@gmail.com</b> and this is my first web :) <a href="https://www.stkfamily.my.id/"> <b>stk family</b></a> don't forget to come brouh, <b>ILY<b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="15px">
+    hello, i am cen, welcome to my github hope you enjoy it, i am an ordinary student in my school, maybe that's all, and hope you like it :), for more questions about myself etc. contact my email: <b>iincen403@gmail.com</b> and this is my first web :) <a href="https://stkfamily.my.id/"> <b>stk family</b></a> don't forget to come brouh, <b>ILY<b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="15px">
   </em>  
 </p>
 
