@@ -29,7 +29,7 @@
 
 <br>
 
-## Mancin :v
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="29px"> **MANCING** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="24px">
 
 <img src="https://github.com/iincen/iincen/blob/main/assets/mancing.gif" alt="Mario Game" width="700">
 
