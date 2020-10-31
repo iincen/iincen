@@ -29,7 +29,9 @@
 
 <br>
 
-<img src="https://github.com/iincen/iincen/blob/main/assets/mancing.gif" alt="Mario Game" width="980">
+## Mancin :v
+
+<img src="https://github.com/iincen/iincen/blob/main/assets/mancing.gif" alt="Mario Game" width="700">
 
 <br>
 
