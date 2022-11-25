@@ -12,23 +12,8 @@
   </em>  
 </p>
 
-<br>
-
-- <img alt="GIF" src="https://media3.giphy.com/media/QAgTKSP2NJV4oYmSVB/giphy.gif" width="35vw" />
-
-<br>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iincen)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-## I ❤️ Memes
-
-<img alt="Random Memes" height="245px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
-
-<br>
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="29px"> **MANCING** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="24px">
 
 <img src="https://github.com/iincen/iincen/blob/main/assets/mancing.gif" alt="Mario Game" width="700">
 
